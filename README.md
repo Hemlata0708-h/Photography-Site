@@ -10,8 +10,6 @@ This project showcases photography work with a clean UI, smooth interactions, an
 
 📱 Fully responsive (mobile, tablet & desktop)
 
-⚡ Smooth animations & transitions
-
 🧭 Easy navigation
 
 💡 Beginner-friendly project structure
